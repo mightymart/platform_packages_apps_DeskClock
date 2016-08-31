@@ -1,0 +1,2 @@
+-keep class android.support.v7.widget.SearchView { *; }
+-keep class com.android.deskclock.widget.toast.LinearLayoutWithSnackbarBehavior { *; }
